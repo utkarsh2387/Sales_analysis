@@ -70,4 +70,6 @@ Segment-wise Revenue Distribution
 ## 📊 Dashboard Overview
 ![Dashboard Overview](dashboard/Page1.png)
 
+![Dashboard Overview](dashboard/Page2.png)
 
+![Dashboard Overview](dashboard/Page3.png)
