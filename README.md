@@ -17,3 +17,19 @@ Monitor monthly revenue trends
 Forecast future sales demand
 
 Build an interactive Power BI dashboard for decision-makers
+
+
+📈 Dashboard Features
+1️⃣ Executive Overview
+
+Provides high-level business performance indicators.
+
+Visuals include:
+
+KPI Cards (Sales, Profit, Orders)
+
+Sales by Region
+
+Sales by Customer Segment
+
+Monthly Revenue Trend
