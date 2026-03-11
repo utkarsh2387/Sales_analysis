@@ -6,7 +6,7 @@ This project analyzes retail sales data to identify revenue drivers, profit leak
 
 The goal of this project is to simulate how a Data Analyst supports decision-making in an e-commerce or retail organization.
 
-🎯 Business Objectives
+# 🎯 Business Objectives
 
 Analyze sales performance across regions and customer segments
 
@@ -19,7 +19,7 @@ Forecast future sales demand
 Build an interactive Power BI dashboard for decision-makers
 
 
-📈 Dashboard Features
+# 📈 Dashboard Features
 1️⃣ Executive Overview
 
 Provides high-level business performance indicators.
