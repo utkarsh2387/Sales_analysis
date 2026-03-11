@@ -60,3 +60,14 @@ Top 10 Products by Sales
 Sales by State (Geographical Map)
 
 Segment-wise Revenue Distribution
+
+
+
+### Tools Used
+- Python (Numpy, Pandas, Matplotlib, Seaborn)
+- Power BI
+
+## 📊 Dashboard Overview
+![Dashboard Overview](dashboard/churn_dashboard.png)
+
+
