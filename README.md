@@ -33,3 +33,30 @@ Sales by Region
 Sales by Customer Segment
 
 Monthly Revenue Trend
+
+
+2️⃣ Sales & Profit Analysis
+
+Analyzes profitability across product categories.
+
+Key insights:
+
+Sales vs Profit by Category
+
+Profit by Sub-Category
+
+Discount vs Profit Relationship
+
+Identification of loss-making products
+
+3️⃣ Customer & Product Insights
+
+Identifies high-value products and customer groups.
+
+Visuals include:
+
+Top 10 Products by Sales
+
+Sales by State (Geographical Map)
+
+Segment-wise Revenue Distribution
