@@ -68,6 +68,6 @@ Segment-wise Revenue Distribution
 - Power BI
 
 ## 📊 Dashboard Overview
-![Dashboard Overview](dashboard/Screenshot 2026-03-11 204833.png)
+![Dashboard Overview](dashboard/Dashboard Page1.png)
 
 
